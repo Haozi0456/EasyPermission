@@ -17,6 +17,6 @@ allprojects {
   
 dependencies {
 
-	implementation 'com.github.Haozi0456:EasyPermission:1.0.0'
+	implementation 'com.github.Haozi0456:EasyPermission:1.0.1'
 	
 }
